@@ -1,0 +1,29 @@
+Screen
+	1280 wide
+	720 high
+startbar
+	1280 wide
+	40 high
+Start button
+	52 wide
+	40 high
+	38 diameter
+Quick Launch
+	60 wide
+	40 high
+Window
+	full
+		1280 wide
+		680 high
+	Title bar
+		1272 wide
+		21 high
+	padding
+		4 wide/high
+	menu
+		1272 wide
+		19 high
+	scrollbar
+		17 wide
+		
+	
